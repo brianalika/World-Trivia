@@ -10,7 +10,7 @@ body {
   height: 200px; 
 }
 
-#wrapper {
+#contentbox {
   width: 960px;
   height: 95%;
   margin: 2.5% auto;
